@@ -43,6 +43,7 @@ Run the corresponding commands (see [./run.sh](./run.sh)) to generate prediction
 
 - <https://github.com/Xiaoqi-Zhao-DLUT/PySegMetric_EvalToolkit>
 - <https://github.com/zhaoyuan1209/PyADMetric_EvalToolkit>
+- <https://github.com/Xiaoqi-Zhao-DLUT/X-ray-PBD>
 
 ## Contributors
 
