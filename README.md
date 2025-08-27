@@ -44,12 +44,16 @@ Run the corresponding commands (see [./run.sh](./run.sh)) to generate prediction
 - <https://github.com/Xiaoqi-Zhao-DLUT/PySegMetric_EvalToolkit>
 - <https://github.com/zhaoyuan1209/PyADMetric_EvalToolkit>
 
+## Awesome-Unified-Context-dependent-Concept-Segmentation
+
+- <https://github.com/Xiaoqi-Zhao-DLUT/Awesome-Unified-Context-dependent-Concept-Segmentation>
 ## Contributors
 
 - [@lartpang](https://github.com/lartpang)
 - [@Xiaoqi-Zhao-DLUT](https://github.com/Xiaoqi-Zhao-DLUT)
 - [@DUT-CSJ](https://github.com/DUT-CSJ)
 - [@zhaoyuan1209](https://github.com/zhaoyuan1209)
+
 
 ## Citation
 
